@@ -1,6 +1,6 @@
-## Hi there 👋
+# Welcome to aicodecc
 
-Welcome to aicodecc, aicodecc is a research and study organization.
+aicodecc is a research and study organization.
 
 We try to research golang, rust, c++. 
 
